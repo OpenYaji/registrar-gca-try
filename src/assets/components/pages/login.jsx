@@ -9,13 +9,13 @@ const ROLES = {
         id: 'student',
         label: 'Student',
         icon: GraduationCap,
-        url: 'https://student.gcanovaliches.com'
+        url: 'https://gcanovaliches.vercel.app'
     },
     ADMIN: {
         id: 'admin',
         label: 'Admin',
         icon: UserCog,
-        url: 'https://admin.gcanovaliches.netlify.app'
+        url: 'https://admin-gcanovaliches.netlify.app'
     },
     REGISTRAR: {
         id: 'registrar',
@@ -26,13 +26,13 @@ const ROLES = {
         id: 'teacher',
         label: 'Teacher',
         icon: BookOpen,
-        url: 'https://teacher-portal.gcanovaliches.com'
+        url: 'https://teacher-gcanovaliches.netlify.app'
     },
     GUARD: {
         id: 'guard',
         label: 'Guard',
         icon: Shield,
-        url: 'https://guard.gcanovaliches.com'
+        url: 'https://guard-gcanovaliches.netlify.app'
     }
 };
 
